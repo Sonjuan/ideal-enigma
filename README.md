@@ -1,3 +1,3 @@
 Temporary Data Storage for System Crash<br>
 
-adding scripts needed
+:white_check_mark: adding fetch script <br>
